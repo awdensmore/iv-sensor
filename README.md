@@ -12,3 +12,38 @@ The voltage measurement is more complicated. Because the EIS signal is a ~20mV s
 
 ![Sensor Operation](/Plot/IVsensor_operation.png)
 
+**Component Values**
+
+| Component | Value |
+|----------|-------|
+R1 | 21.92k
+R2 | 5.57k
+R3 | 82.2k
+R4 | 4.64M
+R5 | 4.7M
+R6 | 50.9k
+R7 | 15.9k
+R8 | 4.57M
+R9 | 4.66M
+R10 | 51.0k
+R11 | 984
+R12 | 100.1k
+R13 | 19.98k
+R14 | 19.98k
+R15 | 100.4k
+R16 | 62.3k
+R17 | 62.2k
+R18 | 62.1k
+R19 | 62.3k
+R20 | 100.0k
+R21 | 2.99k
+R22 | 1k
+R23 | 100.3k
+R24 | 22k
+R25 | 21.87k
+R26 | TBD
+R27 | TBD
+R28 | TBD
+C1 - C2 | 470uF
+C3 - C16 | 0.1uF
+
